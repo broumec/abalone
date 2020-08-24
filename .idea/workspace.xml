@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fee6da2b-a266-4459-9749-16388526b6e8" name="Default Changelist" comment="" />
+    <list default="true" id="fee6da2b-a266-4459-9749-16388526b6e8" name="Default Changelist" comment="init project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,10 +66,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init project" />
-    <option name="LAST_COMMIT_MESSAGE" value="init project" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1598198727782">

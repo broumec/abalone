@@ -1,0 +1,58 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"fee6da2b-a266-4459-9749-16388526b6e8\" name=\"Default Changelist\" comment=\"\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n    <option name=\"ROOT_SYNC\" value=\"SYNC\" />\n  </component>\n  <component name=\"JupyterTrust\" id=\"d4eab667-cb21-4053-8ff9-d1cb5e9216fc\" />\n  <component name=\"ProjectId\" id=\"1gVQ20jRdLFDWx0ZfHopwkRChnu\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"fee6da2b-a266-4459-9749-16388526b6e8\" name=\"Default Changelist\" comment=\"\" />\n      <created>1598197072329</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1598197072329</updated>\n      <workItem from=\"1598197073498\" duration=\"16000\" />\n      <workItem from=\"1598198435484\" duration=\"833000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"init project\">\n      <created>1598198632517</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1598198632517</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"init project\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"init project\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"320\" y=\"187\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1598198727782\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"320\" y=\"187\" key=\"Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900\" timestamp=\"1598198727782\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 21f883174f3af50aae77c87bfae1787b46b1b5d9)
++++ .idea/workspace.xml	(date 1598211742038)
+@@ -10,7 +10,9 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="fee6da2b-a266-4459-9749-16388526b6e8" name="Default Changelist" comment="" />
++    <list default="true" id="fee6da2b-a266-4459-9749-16388526b6e8" name="Default Changelist" comment="init project">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -41,7 +43,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1598197072329</updated>
+       <workItem from="1598197073498" duration="16000" />
+-      <workItem from="1598198435484" duration="833000" />
++      <workItem from="1598198435484" duration="1249000" />
+     </task>
+     <task id="LOCAL-00001" summary="init project">
+       <created>1598198632517</created>
+@@ -50,7 +52,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1598198632517</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="init project">
++      <created>1598199476959</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1598199476959</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -72,9 +81,9 @@
+     <option name="LAST_COMMIT_MESSAGE" value="init project" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1598198727782">
++    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1598199663954">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1598198727782" />
++    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1598199663954" />
+   </component>
+ </project>
+\ No newline at end of file
